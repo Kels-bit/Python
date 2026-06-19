@@ -1,0 +1,4 @@
+In Python you can use lists to store sets of information in one place.
+In Python you can use if statements for decision making.
+In Python you can use classes to represent real-world things.
+
